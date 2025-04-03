@@ -7,8 +7,8 @@
 ## Other stuff:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batu-end&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Batu-end&show_icons=true&theme=radical)
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical)
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=radical)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Batu-end&theme=radical)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Batu-end&theme=radical)
 
 
 ## Connect with Me
