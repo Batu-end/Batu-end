@@ -5,7 +5,7 @@
 - Currently working on an LSTM model for stock price predictions.
 
 ## Top Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batu-end&layout=compact&theme=radical)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/batu-demirtas-ba83812ba/)
